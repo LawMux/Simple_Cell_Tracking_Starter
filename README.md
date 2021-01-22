@@ -23,6 +23,6 @@ I stopped developing before getting too fancy, since the whole point is you'll n
 <li>To incorporate the frame-by-frame difference to improve the watershedding / contour selection</li>
 <li>Use optical flow to better pair contours in lieu of the ad-hoc centroid based correspondence presently used in the code </li>
 <li>Roll in UNET or some segmentation tool in lieu of, or in combination with, the watershedding </li>
-
 </ul>
-Reach out if you want suggestions for a specific setup.
+
+Reach out if you want suggestions / tips for a specific setup.
