@@ -13,7 +13,7 @@ What I'd really need are just some simple starter tools to get the data to a poi
 
 That's all this repo is.
 
-The above example application is derived fromthe PhC-C2DL-PSC_splitting dataset from the <a target="_blank" href="http://celltrackingchallenge.net/">cell tracking challenge</a>.  
+The above animated gif is derived from the PhC-C2DL-PSC_splitting dataset from the <a target="_blank" href="http://celltrackingchallenge.net/">cell tracking challenge</a>.  
 
 
 All this does is take the thresholded data, an initially identified cell, and then contour matches / watersheds its way through the data to find children and distinguish neighbors respectively.
